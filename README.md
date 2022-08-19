@@ -7,4 +7,4 @@ G哥Github项目地址：[GitHub - Snailclimb/JavaGuide: 「Java学习+面试指
 
 秋招同学不要慌，我们一起加油！
 
-Java基础：基础篇.md
+Java基础：[基础篇.md](https://github.com/chill-sw/Interview-assault/blob/7347886ee20deb0355dc15d40af35fba6cad495a/%E5%9F%BA%E7%A1%80%E7%AF%87.md)
